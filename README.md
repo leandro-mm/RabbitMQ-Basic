@@ -1,6 +1,1 @@
-## Project to analyse RabbitMQ
-- availability
-- scalability
-- performance
-- efficiency
-- reliability
+Project to analyse availability, scalability, performance, efficiency and reliability on RabbitMQ
